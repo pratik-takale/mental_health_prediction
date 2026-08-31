@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+scikit-learn
+#uv run uvicorn main:app --reload --port 2200
