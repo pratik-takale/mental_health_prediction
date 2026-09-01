@@ -3,5 +3,5 @@ uvicorn
 pydantic
 joblib
 pandas
-scikit-learn
+scikit-learn==1.5.2
 #uv run uvicorn main:app --reload --port 2200
