@@ -18,7 +18,7 @@
 
 ##  About The Project
 
-**Mental Health Prediction** Mental Health Prediction is an interactive Machine Learning-based web application designed to analyze the relationship between a 
+**Mental Health Prediction** is an interactive Machine Learning-based web application designed to analyze the relationship between a 
 student's daily lifestyle, academic environment, digital habits, and behavioral patterns and generate an estimated mental health score.
 The main purpose of this project is to demonstrate how real-world student lifestyle data can be processed using Data Science and Machine Learning and integrated into a user-friendly web application.
 The application provides a simple assessment form where students can enter information about their routine and digital behavior. 
