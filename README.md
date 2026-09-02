@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Deployment-Render-purple?style=for-the-badge&logo=render" />
 </p>
 
